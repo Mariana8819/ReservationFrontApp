@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReservationFrontApp/static/css/main.877672db.css",
+    "main.js": "/ReservationFrontApp/static/js/main.510a8e8d.js",
+    "static/js/453.8ab44547.chunk.js": "/ReservationFrontApp/static/js/453.8ab44547.chunk.js",
+    "index.html": "/ReservationFrontApp/index.html",
+    "main.877672db.css.map": "/ReservationFrontApp/static/css/main.877672db.css.map",
+    "main.510a8e8d.js.map": "/ReservationFrontApp/static/js/main.510a8e8d.js.map",
+    "453.8ab44547.chunk.js.map": "/ReservationFrontApp/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.877672db.css",
+    "static/js/main.510a8e8d.js"
+  ]
+}
